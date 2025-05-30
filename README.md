@@ -51,6 +51,7 @@ ollama run llama3.2
 Ollama supports a list of models available on [ollama.com/library](https://ollama.com/library 'ollama model library')
 
 Here are some example models that can be downloaded:
+EDIT BY NIYAM - 7B requires 8GB RAM, 13B requires 16GB RAM and so on meaning the 400B requires much bigger computational power.
 
 | Model              | Parameters | Size  | Download                         |
 | ------------------ | ---------- | ----- | -------------------------------- |
